@@ -7,7 +7,6 @@ MAIN_PORT=24001
 
 TRAIN_PATH="
     --pretrained_model_name_or_path="./ckpt/stable-diffusion-xl-base-1.0" \
-    --pretrained_ti_path="./exp/clif" \
     --pretrained_vae_model_name_or_path="./ckpt/sdxl-vae-fp16-fix" \
     --train_data_dir="./dataset" \
     --caption_column="text" \
