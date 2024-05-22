@@ -1,5 +1,4 @@
-# Action Imitation in Common Action Space for
-Customized Action Image Synthesis
+# Action Imitation in Common Action Space for Customized Action Image Synthesis
 
 
 
