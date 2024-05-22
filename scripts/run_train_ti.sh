@@ -18,7 +18,7 @@ placeholder_tokens="
 "
 
 initializer_tokens="
-    Action,action,action
+    action,action,action
 "
 
 VALID_PROMPT="
